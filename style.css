@@ -1,0 +1,220 @@
+#navbar{
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  background-image: url(https://www.traveloffpath.com/wp-content/uploads/2022/06/Bali-Top-10-Things-Travelers-Need-To-Know-Before-Visiting.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 800px;
+}
+
+.logo pre{
+  margin-top: 50px;
+  margin-left: 0px;
+  font-family: 'Satisfy', cursive;
+  font-size: 50px;
+  color: #0B1F1E;
+}
+
+.cate{
+  display: flex;
+  align-items: center;
+  column-gap: 10px;
+  margin: 80px;
+}
+
+.cate a{
+  color: #0B1F1E;
+}
+
+.cate button{
+  width: 120px;
+  height: 40px;
+  background-color: #0b1f1efb;
+  color: white;
+  font-size: 14px;
+  font-weight: 600;
+  border: 0px;
+}
+
+.cate button:hover{
+  background-color: white;
+  color: black;
+}
+
+#mid{
+  background-color: #0B1F1E;
+  padding-top: 6.6vmax;
+  padding-bottom: 6.6vmax;
+  color: white;
+  
+}
+
+.point1{
+  display: flex;
+  align-items: center;
+  column-gap: 50px;
+  margin: 30px;
+}
+
+.point1 img{
+  width: 750px;
+  height: 500px;
+}
+
+.point1 span{
+  font-family: Alice;
+  font-size: 40px;
+  font-weight: 600;
+
+}
+
+.point1 button{
+  width: 120px;
+  height: 40px;
+  font-size: 14px;
+  font-weight: 600;
+  border: 0px;
+}
+
+.point1 button:hover{
+  background-color: rgb(214, 143, 10);
+  color: white;
+}
+
+.point2{
+  display: flex;
+  align-items: center;
+  column-gap: 50px;
+  margin: 30px;
+  padding-top: 6.6vmax;
+  padding-bottom: 6.6vmax;
+}
+
+.point2 img{
+  width: 750px;
+  height: 500px;
+}
+
+.point2 span{
+  font-family: Alice;
+  font-size: 40px;
+  font-weight: 600;
+}
+
+.point2 button{
+  width: 120px;
+  height: 40px;
+  font-size: 14px;
+  font-weight: 600;
+  border: 0px;
+}
+
+.point2 button:hover{
+  background-color: rgb(214, 143, 10);
+  color: white;
+}
+
+.point2 button:active{
+  background-color: rgb(214, 143, 10);
+  color:white ;
+}
+
+.point3{
+  display: flex;
+  align-items: center;
+  column-gap: 50px;
+  margin: 30px;
+}
+
+.point3 img{
+  width: 750px;
+  height: 500px;
+}
+
+.point3 span{
+  font-family: Alice;
+  font-size: 40px;
+  font-weight: 600;
+}
+
+.point3 button{
+  width: 120px;
+  height: 40px;
+  font-size: 14px;
+  font-weight: 600;
+  border: 0px;
+}
+
+.point3 button:hover{
+  background-color: rgb(214, 143, 10);
+  color: white;
+}
+
+.point4{
+  display: flex;
+  align-items: center;
+  column-gap: 50px;
+  margin: 30px;
+  padding-top: 6.6vmax;
+  padding-bottom: 6.6vmax;
+}
+
+.point4 img{
+  width: 750px;
+  height: 500px;
+}
+
+.point4 span{
+  font-family: Alice;
+  font-size: 40px;
+  font-weight: 600;
+}
+
+.point4 button{
+  width: 120px;
+  height: 40px;
+  font-size: 14px;
+  font-weight: 600;
+  border: 0px;
+}
+
+.point4 button:hover{
+  background-color: rgb(214, 143, 10);
+  color: white;
+}
+
+#footer{
+  margin: 50px;
+  
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.col1 button{
+  width: 120px;
+  height: 40px;
+  background-color: #0b1f1efb;
+  color: white;
+  font-size: 14px;
+  font-weight: 600;
+  border: 0px;
+}
+
+.col1 button:hover{
+  background-color: rgb(214, 143, 10);
+  color: black;
+}
+
+.col2 a{
+  color: black;
+}
+
+.col3 a{
+  color: black;
+}
+
+.col4 a{
+  color: black;
+}
